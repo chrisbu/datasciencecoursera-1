@@ -9,8 +9,6 @@
 # pollutantmean("specdata", "nitrate", 23)
 # ## [1] 1.281
 
-
-
 # source("complete.R")
 # complete("specdata", 1)
 # ##   id nobs
@@ -33,7 +31,6 @@
 # complete("specdata", 3)
 # ##   id nobs
 # ## 1  3  243
-
 
 # source("corr.R")
 # source("complete.R")
