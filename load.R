@@ -17,5 +17,5 @@ load <- function(directory, id = 1:332, cores=detectCores()) {
   
   stopCluster(cores)
 
-  data
+  invisible(data)
 }
